@@ -1,2 +1,2 @@
-# stock_v2
-stock_v2
+# Stock model v2
+Apply SIVAE to Time Series model to capture the intricate patterns
